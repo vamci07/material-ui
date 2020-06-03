@@ -122,7 +122,7 @@
   "devDependencies": {
     "@babel/preset-typescript": "^7.6.0",
     "babel-plugin-unwrap-createstyles": "^4.1.0",
-    "cpy-cli": "^2.0.0",
+    "cpy-cli": "^3.1.1",
     "gm": "^1.23.0"
   }
 }
